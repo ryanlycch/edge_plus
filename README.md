@@ -4,7 +4,7 @@
 - 鼠标悬停标签栏滚动
 - 按住右键时滚轮滚动标签栏
 # 获取
-采用GitHub Actions自动编译发布，下载请自行前往[编译](https://github.com/shuax/edge_plus/actions)页面找Artifacts（需要登录Github）
+采用GitHub Actions自动编译发布，下载地址：[https://nightly.link/shuax/edge_plus/workflows/build/main](https://nightly.link/shuax/edge_plus/workflows/build/main)
 
 [![build status](https://github.com/shuax/edge_plus/actions/workflows/build.yml/badge.svg)](https://github.com/shuax/edge_plus/actions/workflows/build.yml)
 
